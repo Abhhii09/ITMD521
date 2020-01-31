@@ -2,7 +2,7 @@
 
 ![my self](abhishek.jpg "myself")
 
-![game of thrones](got.jpg "game of thrones!")
+![game of thrones](got.jpeg "game of thrones!")
 
 ## Where are you from?
 
