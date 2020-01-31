@@ -17,4 +17,4 @@ I like to play a soccer a lotttt. I used to play for my college team. I go for t
 
 ## Git-IT Tutorial Badge
 
-![Git Tutorial](C:\Users\abhhi\Itmd521\images\result.PNG "Result")
+![Git Tutorial](C:\Users\abhhi\Itmd521\images\result.png "Result")
