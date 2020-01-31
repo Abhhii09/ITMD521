@@ -1,6 +1,6 @@
 # Abhishek Singh
 
-![my self](images/abhishek.jpg "myself")
+![my self](abhishek.jpg "myself")
 
 ![game of thrones](images/vegeta.jpg "game of thrones")
 
