@@ -1,6 +1,6 @@
 # Abhishek Singh
 
-![my self](C:\Users\abhhi\Itmd521\images\abhishek.jpg "myself")
+![my self](images/abhishek.jpg "myself")
 
 ![game of thrones](images/vegeta.jpg "game of thrones")
 
