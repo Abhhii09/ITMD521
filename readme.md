@@ -1,8 +1,8 @@
 # Abhishek Singh
 
-![my self](C:\Users\abhhi\Itmd521\images\abhishek.jpg "myself")
+![my self](abhishek.jpg "myself")
 
-![game of thrones](images/vegeta.jpg "game of thrones")
+![game of thrones](got.jpeg "game of thrones!")
 
 ## Where are you from?
 
@@ -17,4 +17,22 @@ I like to play a soccer a lotttt. I used to play for my college team. I go for t
 
 ## Git-IT Tutorial Badge
 
-![Git Tutorial](C:\Users\abhhi\Itmd521\images\result.jpg "Result")
+![Git Tutorial](result.PNG "Result")
+
+## Screenshots
+
+![Git Tutorial](ssh.PNG "ssh")
+
+
+![Git Tutorial](choco.PNG "choco")
+
+![Git Tutorial](git.PNG "git")
+
+
+![Git Tutorial](virtual.PNG "virtual")
+
+![Git Tutorial](vagrant.PNG "vagrant")
+
+
+![Git Tutorial](packer.PNG "packer")
+![Git Tutorial](visual.PNG "visual")
